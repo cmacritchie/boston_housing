@@ -1,3 +1,8 @@
+This is the Boston Housing Machine Learning Project from Udacity. I have extracted the folder into
+its own repository and added the report.html document. I should note that, although not required,
+I used the seaborn library to visualize some of the data instead of matplotlib. The following 
+information is from the existing README.MD in the Udacity Projects / boston_housing folder repo: 
+
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
