@@ -1,6 +1,6 @@
 This is the Boston Housing Machine Learning Project from Udacity. I have extracted the folder into
 its own repository and added the report.html document. I should note that, although not required,
-I used the seaborn library to visualize some of the data instead of matplotlib. The following 
+I used the SEABORN library to visualize some of the data instead of matplotlib. please refer to the librarys installed, The following 
 information is from the existing README.MD in the Udacity Projects / boston_housing folder repo: 
 
 # Machine Learning Engineer Nanodegree
@@ -15,6 +15,8 @@ This project requires **Python** and the following Python libraries installed:
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+YOU NEED SEABORN TOO:
+-[seaborn](https://seaborn.pydata.org/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
